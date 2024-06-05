@@ -1,19 +1,21 @@
 === Advanced Custom Fields: Gravity Forms Add-on ===
-Contributors: DannyvanHolten, markhowellsmead
-Tags: gravityforms, gravity form, forms, form, acf, advanced custom fields, fields, custom fields, sayhellogmbh
+Contributors: markhowellsmead, dannyvanholten
+Tags: gravity forms, form, acf, advanced custom fields, sayhellogmbh
 Requires at least: 4.6
-Tested up to: 6.1
-Stable tag: 1.3.5
+Tested up to: 6.5.3
+Stable tag: 1.3.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Provides an Advanced Custom Field which allows a WordPress editorial user or administrator to select a Gravity Form as part of a field group configuration.
+Provides an Advanced Custom Field which allows a WordPress user to select a Gravity Form as part of a field group configuration.
 
 == Description ==
 
 Provides an Advanced Custom Field which allows a WordPress editorial user or administrator to select a Gravity Form as part of a field group configuration.
 
-Full documentation can be found in the [plugin's GitHub Repository](https://github.com/DannyvanHolten/acf-gravityforms-add-on).
+**This plugin does not have any effect on the frontend of the website. It does not output the form, nor does it modify the output of existing forms. The plugin only adds a custom ACF field type for use in an ACF field group.**
+
+Full documentation can be found in the [plugin's GitHub Repository](https://github.com/SayHelloGmbH/acf-gravityforms-add-on/).
 
 == Installation ==
 
@@ -46,4 +48,4 @@ Version 1.3.2 added a plain HTML filter to the output of the field. This filter 
 
 == Changelog ==
 
-Further changes can be found in the [changelog](https://github.com/DannyvanHolten/acf-gravityforms-add-on/blob/master/CHANGELOG.md)
+A detailed list of changes to the plugin can be found in the [changelog](https://github.com/SayHelloGmbH/acf-gravityforms-add-on/blob/master/CHANGELOG.md) at Github.
