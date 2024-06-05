@@ -3,7 +3,7 @@ Contributors: markhowellsmead, dannyvanholten
 Tags: gravity forms, form, acf, advanced custom fields, sayhellogmbh
 Requires at least: 4.6
 Tested up to: 6.5.3
-Stable tag: 1.3.7
+Stable tag: 1.3.8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
