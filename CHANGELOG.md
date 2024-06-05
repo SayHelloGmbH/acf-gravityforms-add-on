@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+##
+
+## [1.3.8] - 2024-06-05
+## [1.3.7] - 2024-06-05
+## [1.3.6] - 2024-06-05
+
+- Revise plugin meta, confirm compatibility with WordPress 6.5.3, revert translation slugs.
+
 ## [1.3.5] - 2022-11-11
 
 -   Update readme, core version support and plugin requirement header. No functional changes.
